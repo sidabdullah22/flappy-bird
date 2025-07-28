@@ -16,8 +16,8 @@ Welcome to my first game project! This is a simple Flappy Bird clone that I crea
 ## Screenshots
 
 
-![Gameplay Screenshot]([output/game%play%screen.png](https://github.com/sidabdullah22/flappy-bird/blob/main/output/game%20over%20screen.png))
-![Gameplay Screenshot]([output/game%over%screen.png](https://github.com/sidabdullah22/flappy-bird/blob/main/output/game%20over%20screen.png))
+![Gameplay Screenshot](https://github.com/sidabdullah22/flappy-bird/blob/main/output/game%20over%20screen.png)
+![Gameplay Screenshot](https://github.com/sidabdullah22/flappy-bird/blob/main/output/gameplay%20screen.png)
 
 
 ---
