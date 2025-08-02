@@ -16,10 +16,12 @@ public class logicscript : MonoBehaviour
     }
     public void restartGame() 
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     public void gameOver()
     {
         gameOverScreen.SetActive(true);
+        Time.timeScale = 0f;
     }
 }

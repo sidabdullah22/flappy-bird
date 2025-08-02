@@ -5,7 +5,7 @@ public class pipespawnscript : MonoBehaviour
     public GameObject pipe;
     public float spawnRate = 2;
     private float timer = 0;
-    public float hightOffset = 13;
+    public float hightOffset = 20;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
